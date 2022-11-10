@@ -1,5 +1,3 @@
 print('Hello world')
-<<<<<<< HEAD
-=======
 print('Tell your world')
->>>>>>> hotfix
+print('Tell her world')
